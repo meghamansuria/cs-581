@@ -1,2 +1,2 @@
 # cs-581
-Online Social Networks class at Stevens!
+Coursework for the Online Social Networks class at Stevens!
